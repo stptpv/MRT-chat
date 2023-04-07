@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mrt</string>
+    <string name="d">fdsgsdg</string>
+    <string name="ff">нажать</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="already_have_account">Already have account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name">Name</string>
+</resources>
